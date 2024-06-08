@@ -2,11 +2,11 @@
 ### Project Overview
 This project aims to analyze the housing market in Bangalore, India, using Power BI. 
 The objective is to understand the trends and factors affecting house prices in Bangalore, provide insights into different areas of the city, and visualize the data to help stakeholders make informed decisions.
-###Table of Contents
-1)**Project Overview**
-2)**Dataset**
-3)**Data Cleaning and Preparation**
-4)**Analysis and Visualization**
+### Table of Contents
+**1)Project Overview**
+**2)Dataset**
+**3)Data Cleaning and Preparation**
+**4)Analysis and Visualization**
 
 ## Dataset
 The dataset used for this project contains information about houses in Bangalore, including features such as location, size, price, and more. The dataset can be found here.
