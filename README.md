@@ -20,10 +20,10 @@ The dataset used for this project contains information about houses in Bangalore
 
 ## Data Cleaning and Preparation
 Before analyzing the data, several steps were taken to clean and prepare the dataset:
-*) **Handling Missing Values: Missing values were identified and handled appropriately.**
-*) **Removing Duplicates: Duplicate entries were removed to ensure data quality.**
-*) **Feature Engineering: New features were created to enhance the analysis, such as price per square foot.**
-*) **Outlier Detection: Outliers were identified and treated to improve the accuracy of the analysis**
+1) **Handling Missing Values: Missing values were identified and handled appropriately.**
+2) **Removing Duplicates: Duplicate entries were removed to ensure data quality.**
+3) **Feature Engineering: New features were created to enhance the analysis, such as price per square foot.**
+4) **Outlier Detection: Outliers were identified and treated to improve the accuracy of the analysis**
 
 ## Analysis and Visualization
 Power BI was used to create interactive visualizations and dashboards. Key analyses include:
